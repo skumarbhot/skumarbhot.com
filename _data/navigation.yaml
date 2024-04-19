@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: Better Professional
+  link: /better-professional.html
+- name: Engineering Management
+  link: /engineering-management.html
+- name: Communication for life
+  link: /communication-for-life.html
+- name: Blog
+  link: /blog.html
+- name: Books
+  link: /books.html
+- name: About
+  link: /about.html
